@@ -1,7 +1,7 @@
 'use strict';
 
 exports.config = {
-    username: 'Enter username',
-    password: 'enter password',
-    connectionUrl: 'enter mongodb connection url'
+    username: 'admin',
+    password: 'fddfgggtterdBVXCFGBgrggtegrbcvbxb',
+    connectionUrl: 'ds151049.mlab.com:51049/2008-olympics'
 };
