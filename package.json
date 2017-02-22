@@ -1,0 +1,26 @@
+{
+  "name": "08medalsserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Donal Rafferty",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.16.1",
+    "express": "4.14.1",
+    "mongodb": "2.2.24",
+    "mongoose": "4.8.3"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "gulp": "3.9.1",
+    "gulp-mocha": "3.0.1",
+    "gulp-nodemon": "^2.2.1",
+    "rewire": "2.5.2",
+    "should": "11.2.0",
+    "supertest": "3.0.0"
+  }
+}
