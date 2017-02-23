@@ -16,5 +16,5 @@ Run `gulp test` to execute the unit tests via Mocha.
 
 * Implement error handling, currently the application doesn't handle errors 
 * Improve the build process and include a production build
-* Improve the immutability of the app as it contains some impure functions
+* Improve the functional flow of the app as it contains some impure functions
 * Currently is too coupled to Mongoose, improve DB interface so the type of DB used is irrelevant
