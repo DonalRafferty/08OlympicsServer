@@ -6,7 +6,7 @@ It servers the OlympicsClient project also found in my Github repos
 
 
 ## Run server
-Run `gulp run` for a dev server. The server will be run on port 400 unless you supply a port via an environment variable
+Run `gulp run` for a dev server. The server will be run on port 4000 unless you supply a port via an environment variable
 
 ## Running unit tests
 
